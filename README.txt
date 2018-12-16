@@ -5,6 +5,6 @@ I have recognized opportunities for and look forward to performing code refactor
 
 ** A special thanks to my wife for supporting UAT efforts **
 
-How to run: Visit my GitHubPage at https://nicholastoddbell.github.io/DotNET-CSharp-TicTacToe/publish.htm. Select launch > open and then have fun playing Tic-Tac-Toe with a friend using the mouse to click on the gameboard location you would like to claim.
+How to run: Visit my GitHubPage at https://nicholastoddbell.github.io/DotNET-CSharp-TicTacToe/publish.htm. Select launch > open > install > (sometimes) run and then have fun playing Tic-Tac-Toe with a friend using the mouse to click on the gameboard location you would like to claim.
 
 Have fun!
